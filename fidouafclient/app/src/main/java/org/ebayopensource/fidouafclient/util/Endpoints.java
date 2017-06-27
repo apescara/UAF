@@ -3,7 +3,7 @@ package org.ebayopensource.fidouafclient.util;
 public class Endpoints {
 
 	public static final String SERVER =
-	"http://13.59.249.130:8080/";
+	"http://18.220.6.243:8080/";
 	//"http://www.head2toes.org";
 	public static final String GET_AUTH_REQUEST = "/fidouaf/v1/public/authRequest";
 	public static final String POST_AUTH_RESPONSE = "/fidouaf/v1/public/authResponse";
